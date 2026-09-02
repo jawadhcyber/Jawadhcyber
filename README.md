@@ -26,7 +26,15 @@ IT support, or network support.
 
 ## Projects
 
-🚧 My first cybersecurity project is currently in development.
+🛡️ Security Log Analyzer
+
+A Python-based security log analyzer that detects failed login attempts, analyzes activity by IP address, identifies possible brute-force activity, and generates a CSV security report.
+
+🌐 Python Network Utility
+
+A beginner-friendly Python utility for checking basic network connectivity to an IP address or hostname.
+
+I am continuing to build practical cybersecurity and networking projects as part of my learning journey.
 
 ## Career Interests
 
