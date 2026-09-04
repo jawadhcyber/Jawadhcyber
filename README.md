@@ -26,15 +26,52 @@ IT support, or network support.
 
 ## Projects
 
-🛡️ Security Log Analyzer
+🛡️ Cybersecurity Projects
 
-A Python-based security log analyzer that detects failed login attempts, analyzes activity by IP address, identifies possible brute-force activity, and generates a CSV security report.
+🔐 Mini SIEM Log Analyzer
 
-🌐 Python Network Utility
+A Python-based mini SIEM that analyzes security events, applies detection rules, assigns severity levels, and generates security reports.
 
-A beginner-friendly Python utility for checking basic network connectivity to an IP address or hostname.
+🕵️ SOC Incident Investigation
 
-I am continuing to build practical cybersecurity and networking projects as part of my learning journey.
+Analyzes authentication events to identify suspicious login activity, possible brute-force attacks, and incident severity.
+
+🚨 SOC Alert Triage System
+
+Simulates a SOC alert-triage workflow using risk scoring and LOW, MEDIUM, and HIGH severity classifications.
+
+⏱️ Failed Login Timeline Analyzer
+
+Detects repeated failed login attempts occurring within a defined time window using timestamp-based event correlation.
+
+🔎 IOC Scanner
+
+Compares observed IP addresses, domains, and file hashes against a local list of known Indicators of Compromise.
+
+📧 Phishing Email Analyzer
+
+Analyzes email text for common phishing indicators and assigns a basic risk level.
+
+🌐 Network Port Scanner
+
+Uses Python socket programming to check selected TCP ports and identify open or closed ports.
+
+📁 File Integrity Monitor
+
+Uses SHA-256 hashing to demonstrate file-integrity monitoring and change detection.
+
+🎯 Career Focus
+
+I am building practical skills for entry-level roles in:
+
+- Cybersecurity
+- SOC / Security Operations
+- Security Monitoring
+- Incident Investigation
+- Network Security
+- Security Automation
+
+I am continuing to develop hands-on cybersecurity projects using Python, networking, log analysis, and SOC fundamentals.
 
 ## Career Interests
 
